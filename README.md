@@ -6,6 +6,7 @@ https://unity3d.com/cn/get-unity/download/archive
 
 ### 2.下载打包插件
 
+https://github.com/yangfawen/AssetBuildTool-RAVVAR/raw/master/Plugins/RAVVAR-AssetBuildTool_v_1_0_7.unitypackage
 
 ## 具体教程
 ### 1.制作预制体
@@ -25,8 +26,10 @@ https://unity3d.com/cn/get-unity/download/archive
 ![](Doc/RAVVARAB3.png)
 
 ### 3.登陆后台上传资源包
-#### 3.1在后台“我的素材”找到之前上传的模型文件，点击“上传资源包”
+#### 3.1在后台“我的素材”找到之前上传的模型文件，点击替换模型”
+![](Doc/RAVVARAB4.png)
 
 #### 3.2添加资源包
+![](Doc/RAVVARAB5.png)
 
 经过以上的步骤，RAVVAR APP便会渲染展示新添加的资源包。
